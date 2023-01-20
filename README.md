@@ -24,20 +24,20 @@
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
 <p align="center"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/skills/title/1.png" alt="blurb" width="10%"></p>
 <div align="center">
-    <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="60" align="center">
-    <img src="skills/befunky/python-logo.png" alt="Python" width="60" align="center">
-    <img src="skills/befunky/html-logo.png" alt="HTML" width="60" align="center">
-    <img src="skills/befunky/css-logo.png" alt="CSS" width="60" align="center">
-    <img src="skills/befunky/nodejs-logo.png" alt="NodeJS" width="60" align="center">
-    <img src="skills/befunky/heroku-logo.png" alt="Heroku" width="60" align="center">
+    <img src="skills/befunky-pointillism/javascript-logo.png" alt="JavaScript" width="60" align="center">
+    <img src="skills/befunky-pointillism/python-logo.png" alt="Python" width="60" align="center">
+    <img src="skills/befunky-pointillism/html-logo.png" alt="HTML" width="60" align="center">
+    <img src="skills/befunky-pointillism/css-logo.png" alt="CSS" width="60" align="center">
+    <img src="skills/befunky-pointillism/nodejs-logo.png" alt="NodeJS" width="60" align="center">
+    <img src="skills/befunky-pointillism/heroku-logo.png" alt="Heroku" width="60" align="center">
 </div><br>
 <div align="center">
-    <img src="skills/befunky/react-logo.png" alt="React" width="60" align="center">
-    <img src="skills/befunky/redux-logo.png" alt="Reduc" width="60" align="center">
-    <img src="skills/befunky/express-logo.png" alt="Express" width="60" align="center">
-    <img src="skills/befunky/flask-logo.png" alt="Flask" width="60" align="center">
-    <img src="skills/befunky/sqlite-logo.png" alt="SQLite" width="60" align="center">
-    <img src="skills/befunky/postgresql-logo.png" alt="PostgreSQL" width="60" align="center">
+    <img src="skills/befunky-pointillism/react-logo.png" alt="React" width="60" align="center">
+    <img src="skills/befunky-pointillism/redux-logo.png" alt="Reduc" width="60" align="center">
+    <img src="skills/befunky-pointillism/express-logo.png" alt="Express" width="60" align="center">
+    <img src="skills/befunky-pointillism/flask-logo.png" alt="Flask" width="60" align="center">
+    <img src="skills/befunky-pointillism/sqlite-logo.png" alt="SQLite" width="60" align="center">
+    <img src="skills/befunky-pointillism/postgresql-logo.png" alt="PostgreSQL" width="60" align="center">
 </div><br>
 
 
