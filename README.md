@@ -6,7 +6,16 @@
 ― Eric Schmidt, How Google Works' width="100%" margin="0" padding="0">
 
 <span align="justify">About:</span><br>
-<span width="100%">A former architect and an avid lover of art,</span>
+<span width="100%">A former architect and an avid lover of art,</span><br>
+<span>I appreciate the parallels between the principles of design</span><br>
+<span>and the principles of coding.</span><br>
+<br>
+
+<span>The synthesis of structure</span><br>
+<span>and the freedom of creativity; the</span><br>
+<span>contemporary, yet recursive nature of innovation.</span><br>
+<span>These are what moved me to pursue a career in technology,</span><br>
+<span>and still what moves me every time I code.</span><br>
 
 
 <!-- <span align="center" style="font-size:30px;">Skills:</span> -->
