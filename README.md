@@ -4,8 +4,8 @@
 ― Eric Schmidt, How Google Works' width="100%"></p>
 
 
-<div align="center">
-<h1>About</h1>
+<div align="center" style="font-family:'sans serif'">
+<p>About</p>
 <p>A former architect and an avid lover of art,</p>
 <p>I appreciate the parallels between the principles of design</p>
 <p>and the principles of coding.</p>
