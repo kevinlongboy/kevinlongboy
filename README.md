@@ -21,20 +21,20 @@
 
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
 <div align="center">
-    <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="120" padding="30px" align="center">
-    <img src="skills/befunky/python-logo.png" alt="Python" width="120" align="center">
-    <img src="skills/befunky/html-logo.png" alt="HTML" width="120" align="center">
-    <img src="skills/befunky/css-logo.png" alt="CSS" width="120" align="center">
-    <img src="skills/befunky/nodejs-logo.png" alt="NodeJS" width="120" align="center">
-    <img src="skills/befunky/heroku-logo.png" alt="Heroku" width="120" align="center">
+    <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="110" align="center">
+    <img src="skills/befunky/python-logo.png" alt="Python" width="110" align="center">
+    <img src="skills/befunky/html-logo.png" alt="HTML" width="110" align="center">
+    <img src="skills/befunky/css-logo.png" alt="CSS" width="110" align="center">
+    <img src="skills/befunky/nodejs-logo.png" alt="NodeJS" width="110" align="center">
+    <img src="skills/befunky/heroku-logo.png" alt="Heroku" width="110" align="center">
 </div><br>
 <div align="center">
-    <img src="skills/befunky/react-logo.png" alt="React" width="120" align="center">
-    <img src="skills/befunky/redux-logo.png" alt="Reduc" width="120" align="center">
-    <img src="skills/befunky/express-logo.png" alt="Express" width="120" align="center">
-    <img src="skills/befunky/flask-logo.png" alt="Flask" width="120" align="center">
-    <img src="skills/befunky/sqlite-logo.png" alt="SQLite" width="120" align="center">
-    <img src="skills/befunky/postgresql-logo.png" alt="PostgreSQL" width="120" align="center">
+    <img src="skills/befunky/react-logo.png" alt="React" width="110" align="center">
+    <img src="skills/befunky/redux-logo.png" alt="Reduc" width="110" align="center">
+    <img src="skills/befunky/express-logo.png" alt="Express" width="110" align="center">
+    <img src="skills/befunky/flask-logo.png" alt="Flask" width="110" align="center">
+    <img src="skills/befunky/sqlite-logo.png" alt="SQLite" width="110" align="center">
+    <img src="skills/befunky/postgresql-logo.png" alt="PostgreSQL" width="110" align="center">
 </div><br>
 
 
