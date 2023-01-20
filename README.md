@@ -28,7 +28,7 @@
     <img src="skills/befunky-pointillism/python-logo.png" alt="Python" width="60" align="center">
     <img src="skills/befunky-pointillism/html-logo.png" alt="HTML" width="60" align="center">
     <img src="skills/befunky-pointillism/css-logo.png" alt="CSS" width="60" align="center">
-    <img src="skills/befunky-pointillism/nodejs-logo.png" alt="NodeJS" width="60" align="center">
+    <img src="skills/befunky-pointillism/nodejs-logo-1.png" alt="NodeJS" width="60" align="center">
     <img src="skills/befunky-pointillism/heroku-logo.png" alt="Heroku" width="60" align="center">
 </div><br>
 <div align="center">
@@ -36,7 +36,7 @@
     <img src="skills/befunky-pointillism/redux-logo.png" alt="Reduc" width="60" align="center">
     <img src="skills/befunky-pointillism/express-logo.png" alt="Express" width="60" align="center">
     <img src="skills/befunky-pointillism/flask-logo.png" alt="Flask" width="60" align="center">
-    <img src="skills/befunky-pointillism/sqlite-logo.png" alt="SQLite" width="60" align="center">
+    <img src="skills/befunky-pointillism/sqlite-logo-2.png" alt="SQLite" width="60" align="center">
     <img src="skills/befunky-pointillism/postgresql-logo.png" alt="PostgreSQL" width="60" align="center">
 </div><br>
 
