@@ -16,7 +16,7 @@
 <span>and still what moves me every time I code.</span><br> -->
 
 
-<p align="center" style="font-size:30px;">Skills:</p>
+<p align="center" style="font-size:30;">Skills:</p>
 <div align="center">
     <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="150" align="center">
     <img src="skills/befunky/python-logo.png" alt="Python" width="150" align="center">
