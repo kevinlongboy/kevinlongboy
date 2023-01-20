@@ -5,4 +5,4 @@
 <img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/eric-schmidt-1A.gif" alt='"It is the ultimate luxury to combine passion and contribution. It’s also a very clear path to happiness."
 ― Eric Schmidt, How Google Works' width="100%" margin="0" padding="0">
 
-<div align="center">About</div>
+<div align="center" fontSize="30px">About</div>
