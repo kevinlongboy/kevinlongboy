@@ -19,7 +19,6 @@
 <span>and still what moves me every time I code.</span><br> -->
 <p align="center" margin="0"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/whole/4.png" alt="blurb" width="70%"></p>
 <br>
-<br>
 
 
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
