@@ -18,7 +18,7 @@
 <span>These are what moved me to pursue a career in technology,</span><br>
 <span>and still what moves me every time I code.</span><br> -->
 
-<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/about-1.png" alt="blurb" width="100%" margin="0" padding="0">
+<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/about-2A.png" alt="blurb" width="100%" margin="0" padding="0">
 
 
 
