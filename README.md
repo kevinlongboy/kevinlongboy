@@ -6,7 +6,7 @@
 
 <div align="center" style="font-family:'sans serif'">
 <h1>About</h1>
-<p style="margin:0px">A former architect and an avid lover of art,</p>
+<p style="padding:0px">A former architect and an avid lover of art,</p>
 <p>I appreciate the parallels between the principles of design</p>
 <p>and the principles of coding.</p>
 
