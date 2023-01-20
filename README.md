@@ -6,6 +6,8 @@
 ― Eric Schmidt, How Google Works' width="100%" margin="0" padding="0">
 
 <span align="justify">About:</span><br>
+<br>
+
 <span width="100%">A former architect and an avid lover of art,</span><br>
 <span>I appreciate the parallels between the principles of design</span><br>
 <span>and the principles of coding.</span><br>
