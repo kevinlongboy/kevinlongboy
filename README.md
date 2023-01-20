@@ -1,7 +1,7 @@
 <img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/quotes/eric-schmidt-1A.gif" alt='"It is the ultimate luxury to combine passion and contribution. It’s also a very clear path to happiness."
 ― Eric Schmidt, How Google Works' width="100%" margin="0" padding="0">
 <br>
-<br>
+<!-- <br> -->
 
 
 <!-- <p align="center">About:</p><br> -->
@@ -18,7 +18,7 @@
 <span>These are what moved me to pursue a career in technology,</span><br>
 <span>and still what moves me every time I code.</span><br> -->
 <p align="center" margin="0"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/whole/3.png" alt="blurb" width="60%"></p>
-<br>
+<!-- <br> -->
 
 
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
