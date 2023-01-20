@@ -1,4 +1,4 @@
-<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/eric-schmidt-1A.gif" alt='"It is the ultimate luxury to combine passion and contribution. It’s also a very clear path to happiness."
+<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/quotes/eric-schmidt-1A.gif" alt='"It is the ultimate luxury to combine passion and contribution. It’s also a very clear path to happiness."
 ― Eric Schmidt, How Google Works' width="100%" margin="0" padding="0">
 
 <!-- <p align="center">About:</p><br> -->
@@ -16,7 +16,11 @@
 <span>and still what moves me every time I code.</span><br> -->
 
 
-<!-- <span align="center" style="font-size:30px;">Skills:</span> -->
+<p align="center" style="font-size:30px;">Skills:</p>
+<div align="center">
+    <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="200" align="center">
+</div>
+
 
 
 
