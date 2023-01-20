@@ -20,7 +20,7 @@
 <div align="center">
     <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="150" align="center">
     <img src="skills/befunky/python-logo.png" alt="Python" width="150" align="center">
-    <img src="skills/befunky/nodejs-logo.png" alt="NodeJS" width="200" align="center">
+    <img src="skills/befunky/nodejs-logo.png" alt="NodeJS" width="150" align="center">
 </div>
 
 
