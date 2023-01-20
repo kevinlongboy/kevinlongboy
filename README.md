@@ -17,7 +17,7 @@
 <span>contemporary, yet recursive nature of innovation.</span><br>
 <span>These are what moved me to pursue a career in technology,</span><br>
 <span>and still what moves me every time I code.</span><br> -->
-<p align="center" margin="0"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/title/1.png" alt="blurb" width="10%"></p>
+<span align="center" margin="0"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/title/1.png" alt="blurb" width="10%"></span>
 <p align="center" margin="0"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/body/3.png" alt="blurb" width="70%"></p>
 <br>
 <br>
