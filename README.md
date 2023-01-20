@@ -17,14 +17,14 @@
 <span>contemporary, yet recursive nature of innovation.</span><br>
 <span>These are what moved me to pursue a career in technology,</span><br>
 <span>and still what moves me every time I code.</span><br> -->
-<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/title/1.png" alt="blurb" width="100%" margin="0" padding="0">
-<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/about/body/3.png" alt="blurb" width="100%" margin="0" padding="0">
+<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/title/1.png" alt="blurb" width="50%" margin="0" padding="0">
+<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/about/body/3.png" alt="blurb" width="100%" margin="0" padding="0">
 <br>
 <br>
 
 
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
-<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/skills/title/1.png" alt="blurb" width="100%" margin="0" padding="0">
+<img align="justify" src="https://github.com/kevinlongboy/kevinlongboy/blob/main/skills/title/1.png" alt="blurb" width="50%" margin="0" padding="0">
 <div align="center">
     <img src="skills/befunky/javascript-logo.png" alt="JavaScript" width="100" align="center">
     <img src="skills/befunky/python-logo.png" alt="Python" width="100" align="center">
