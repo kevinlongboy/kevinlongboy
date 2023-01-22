@@ -24,7 +24,7 @@
 <!-- <p align="center" style="font-size:30;">Skills:</p> -->
 <p align="center"><img src="https://github.com/kevinlongboy/kevinlongboy/blob/main/skills/title/1.png" alt="blurb" width="10%"></p>
 <div align="center">
-    <img src="skills/befunky-gouache/javascript-logo.png" alt="JavaScript" width="60" align="center">
+    <img src="skills/befunky-gouache/javascript-logo.png" alt="JavaScript" width="60%" align="center">
     <img src="skills/befunky-gouache/python-logo.png" alt="Python" width="60" align="center">
     <img src="skills/befunky-gouache/html-logo.png" alt="HTML" width="60" align="center">
     <img src="skills/befunky-gouache/css-logo.png" alt="CSS" width="60" align="center">
